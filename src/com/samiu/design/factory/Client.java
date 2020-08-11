@@ -1,6 +1,8 @@
 package com.samiu.design.factory;
 
 /**
+ * 普通工厂模式
+ *
  * @author Samiu 2020/7/12
  * @github https://github.com/SamiuZhong
  * @blog samiu.top

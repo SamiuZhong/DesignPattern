@@ -1,6 +1,8 @@
 package com.samiu.design.prototype;
 
 /**
+ * 原型模式
+ *
  * @author Samiu 2020/7/12
  * @github https://github.com/SamiuZhong
  * @blog samiu.top
